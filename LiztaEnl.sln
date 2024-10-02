@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LiztaEnl", "LiztaEnl\LiztaEnl.pyproj", "{4801DD7E-1C24-4344-ABD9-08EE4D984C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4801DD7E-1C24-4344-ABD9-08EE4D984C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4801DD7E-1C24-4344-ABD9-08EE4D984C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF24F54D-D4CE-4EC0-99A3-1341890F8AA2}
+	EndGlobalSection
+EndGlobal
